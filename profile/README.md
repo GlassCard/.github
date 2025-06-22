@@ -89,7 +89,7 @@
 
 
 ## 팀원 소개
-|[류승찬](https://github.com/winshine0326)|[조하민](https://github.com/yuuki08noah)|
+|[류승찬](https://github.com/winshine0326)|[조하민](https://github.com/Hxmxx)|
 |:---:|:---:|
 |프론트엔드 & 디자인|프론트엔드 & 백엔드|
 |<img src="https://github.com/user-attachments/assets/4d636456-d599-42da-83bb-8b0adb86cddb" width="300px" />|<img src="https://github.com/user-attachments/assets/db4117b4-930d-4b80-a58d-8393fe84734a" width="300px" />|
